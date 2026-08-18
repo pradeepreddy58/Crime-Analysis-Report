@@ -2,7 +2,7 @@
 
 # Crime Analysis Using Microsoft Excel
 
-## 📌 Project Overview
+## Project Overview
 
 **Crime Analysis** is a data analytics project developed using **Microsoft Excel** to analyze crime incidents, identify crime patterns, understand geographical and temporal trends, and generate meaningful business insights from a large crime dataset.
 
@@ -14,7 +14,7 @@ Although tools such as Power BI can provide more advanced interactivity and visu
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 The major objectives of this project are:
 
@@ -35,7 +35,7 @@ The major objectives of this project are:
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 The original dataset contains **5,250 crime records** and **33 columns** in the raw-data stage.
 
@@ -62,7 +62,7 @@ The dataset contains information related to:
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 The Excel workbook is organized into four major sections:
 
@@ -111,7 +111,7 @@ The cleaned dataset contains **5,050 records and 43 analytical columns**.
 
 ---
 
-## 🔄 Data Transformation
+## Data Transformation
 
 To make the dataset easier to analyze, additional columns were created from the original data.
 
@@ -134,7 +134,7 @@ These transformations made it easier to perform time-based and categorical analy
 
 ---
 
-# 📈 Pivot Table Analysis
+# Pivot Table Analysis
 
 Pivot Tables were used as the main analytical tool for summarizing the cleaned crime dataset.
 
@@ -242,7 +242,7 @@ The use of charts and graphical elements makes it easier to identify patterns, c
 
 ---
 
-# 🔎 Key Findings
+# Key Findings
 
 Based on the cleaned dataset, several meaningful patterns were identified.
 
@@ -284,7 +284,7 @@ This demonstrates that crime analysis can provide insights not only into inciden
 
 ---
 
-# 💡 Business / Analytical Insights
+# Business / Analytical Insights
 
 Although crime analysis is not traditionally a commercial business problem, the same analytical techniques used in business intelligence can be applied to law-enforcement and public-safety data.
 
@@ -303,7 +303,7 @@ This project can help decision-makers:
 
 ---
 
-# 🛠️ Tools & Technologies
+# Tools & Technologies
 
 ### Microsoft Excel
 
@@ -327,7 +327,7 @@ Key Excel features used:
 
 ---
 
-# 🔄 Project Workflow
+# Project Workflow
 
 ```text
 Raw Crime Dataset
@@ -355,7 +355,7 @@ Crime Insights & Findings
 
 ---
 
-# 📌 Why Excel?
+# Why Excel?
 
 This project intentionally uses **Microsoft Excel as the primary analytics and visualization tool**.
 
@@ -373,7 +373,7 @@ The project demonstrates that a well-structured Excel workflow can transform tho
 
 ---
 
-# 🚀 Future Enhancement – Power BI
+# Future Enhancement – Power BI
 
 The current project was completed using Excel.
 
@@ -393,7 +393,7 @@ Therefore, the project can be extended from an **Excel-based static/interactive 
 
 ---
 
-# 🎓 Skills Demonstrated
+# Skills Demonstrated
 
 Through this project, I demonstrated practical knowledge of:
 
@@ -416,7 +416,7 @@ Through this project, I demonstrated practical knowledge of:
 
 ---
 
-# 📌 Project Outcome
+# Project Outcome
 
 The project successfully transformed a large and initially inconsistent crime dataset into a structured analytical dataset and Excel dashboard.
 
@@ -426,6 +426,6 @@ This project demonstrates my ability to take a raw dataset through the complete 
 
 ---
 
-## 👤 Author
+## Author
 
 **Pradeep Reddy**
